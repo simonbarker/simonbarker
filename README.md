@@ -5,6 +5,10 @@
 - 💬 Ask me about **Full stack web dev, careers and learn to code**
 - 🎙 I host the [All The Code](https://all-the-code.transistor.fm/subscribe) podcast 
 
+<div align="center">
+  <img src="https://github.com/simonbarker/simonbarker/blob/05928ef54a6b7dfbb56db8adf46d8f0abffc0eaa/All%20The%20Code%20show%20art.jpg" width="500px">
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/allthecode_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allthecode_" height="30" width="40" /></a>
